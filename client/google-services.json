@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310519457411",
+    "project_id": "unalingerie-5de6f",
+    "storage_bucket": "unalingerie-5de6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310519457411:android:8a4f4e6b7a51b6d0f11db6",
+        "android_client_info": {
+          "package_name": "ar.unalingerie.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310519457411-8dihdo7eu8dfkstlb260cnmhn37d04mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyeUHKtGTexzLJUP3ihg8Dtjm-Po2f20I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310519457411-8dihdo7eu8dfkstlb260cnmhn37d04mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

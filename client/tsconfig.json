@@ -1,0 +1,12 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "esnext",
+    "strict": true,
+    "baseUrl": "./src",
+    "esModuleInterop": true
+  },
+  "exclude": ["__tests__/**/*-test.ts"],
+  "include": ["src", "App.tsx"]
+}
